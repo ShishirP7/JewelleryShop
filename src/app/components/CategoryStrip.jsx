@@ -10,10 +10,10 @@ const categories = [
 
 export default function CategoryStrip() {
   return (
-    <div className="bg-[#fcf7f2] py-6  flex justify-center gap-4 flex-wrap  ">
+    <div className="bg-[#fcf7f2] py-6 px-5 flex justify-center gap-4   ">
       {categories.map((cat, i) => (
-        <div key={i} className="text-center ">
-          <img src={cat.img} alt={cat.label} className="rounded-lg object-cover h-40 w-full mb-2" />
+        <div key={i} className="text-center w-full ">
+          <img src={cat.img} alt={cat.label} className="rounded-lg object-cover h-64 w-full mb-2 hover:opacity-70 transition-all hover:cursor-grab" />
           <p className="text-blue-900 font-serif font-semibold">{cat.label}</p>
         </div>
       ))}
