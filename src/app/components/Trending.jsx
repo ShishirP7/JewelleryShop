@@ -2,10 +2,10 @@
 const products = [
   {
     title: "14KT Yellow Gold Diamond Hoop",
-    category: "Women | Earrings",
+    category: "Women | Necklace",
     price: "Rs. 4,554.00",
     discount: "-30%",
-    img: "/product1.jpg",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm9HaEqv7-fSJp8XB--yQJstJSpcOFxgtRhg&s",
   },
   // ... add more products
 ];
