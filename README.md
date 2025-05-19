@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+<!-- 
+Example Template 
+https://www.figma.com/design/Ze99LhvqESWBcPttjEH8uD/Jewellery-Website-Templates--Community-?node-id=205-18&m=draw -->
 ## Getting Started
 
 First, run the development server:
